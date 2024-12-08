@@ -38,6 +38,11 @@ This is a modern and responsive landing page created for <s>INNOVEXA</s>, a bran
    
 ---
 
+## 🚀 Live Demo
+[Visit Portfolio](https://innovativewebbydimpal.netlify.app/)
+
+---
+
 ## Screenshots 📸
 ![3D Calculator Screenshot](assets/image1.png)
 ![3D Calculator Screenshot](assets/image2.png)
